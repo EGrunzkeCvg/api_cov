@@ -6,7 +6,7 @@ rootdir: C:\dev\pyspace\api_cov
 plugins: asyncio-0.10.0, cov-2.8.1, mock-2.0.0
 collected 1 item
 
-tests\test_app.py .                                                                                                                                                                                                        [100%]
+tests\test_app.py .                                             [100%]
 
 ----------- coverage: platform win32, python 3.7.4-final-0 -----------
 Name                      Stmts   Miss  Cover
@@ -26,7 +26,7 @@ rootdir: C:\dev\pyspace\api_cov
 plugins: asyncio-0.10.0, cov-2.8.1, mock-2.0.0
 collected 1 item
 
-tests\test_app.py .                                                                                                                                                                                                        [100%]
+tests\test_app.py .                                            [100%]
 
 ----------- coverage: platform win32, python 3.7.4-final-0 -----------
 Coverage HTML written to dir htmlcov
